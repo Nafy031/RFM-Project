@@ -42,7 +42,7 @@ This project uses real transactional data to segment customers using the RFM (Re
 
 ##  Sample Output
 
-![Bar chart showing customer segments](link-to-your-bar-chart-image-if-you-upload-it)
+![Bar chart showing customer segments]((https://github.com/Nafy031/RFM-Project/blob/main/rfm_segments_chart.png?raw=true))
 
 ---
 
