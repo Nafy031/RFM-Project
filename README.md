@@ -62,7 +62,7 @@ This project uses real transactional data to segment customers using the RFM (Re
 
 ---
 
-## 📢 Author
+## Author
 
 **Masruj Islam**  
 BSc Digital Business & Innovation, Tokyo International University  
